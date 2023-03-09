@@ -1,2 +1,2 @@
-# Movie-Guide
- aplicativo de guia de filmes/ HTML, CSS e JAVASCRIPT
+# Animação Sol e Lua
+Animação Sol e Lua / HTML e CSS
